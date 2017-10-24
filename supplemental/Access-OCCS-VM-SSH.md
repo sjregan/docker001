@@ -19,6 +19,6 @@ Modify the below command with your Worker node IP and the path for your private 
 $ ssh opc@ip_address -i /users/yourName/folder/sshkey/privateKey
 ```
 
-> *Note - the above format is usable directly in a Mac terminal. If you are using a Windows computer, use an appropriate Windows SSH client, like Putty or another SSH client*
+> *Note - the above format is usable directly in a Mac terminal. If you are using a Windows computer, use an appropriate Windows SSH client, e.g. FireSSH, Cygwin or another SSH client (NOT Putty)*
 
 
